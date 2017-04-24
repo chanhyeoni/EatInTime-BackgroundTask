@@ -1,0 +1,6 @@
+val i = 0
+i = 0
+val abs = 0
+compile
+console
+compile

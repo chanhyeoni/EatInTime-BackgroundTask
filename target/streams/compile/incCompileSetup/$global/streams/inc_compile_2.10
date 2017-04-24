@@ -1,0 +1,173 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> /Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.10/classes/Main$.class
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> /Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.10/classes/Main.class
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> /Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.10/classes/SparkAnalytics.class
+binary dependencies:
+8 items
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> /Users/changhyunlee/.sbt/0.13/java9-rt-ext-oracle_corporation_9_ea/rt.jar
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> /Users/changhyunlee/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> /Users/changhyunlee/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-2.1.0.jar
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> /Users/changhyunlee/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-2.1.0.jar
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> /Users/changhyunlee/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.10/jars/mongo-spark-connector_2.10-2.0.0.jar
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> /Users/changhyunlee/.sbt/0.13/java9-rt-ext-oracle_corporation_9_ea/rt.jar
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> /Users/changhyunlee/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> /Users/changhyunlee/.sbt/boot/scala-2.10.6/lib/scala-reflect.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> /Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> Main
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> Main$
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> SparkAnalytics
+used names:
+72 items
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> <init>
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> AnyRef
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> Array
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> Main
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> Object
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> Predef
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> SparkAnalytics
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> String
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> Unit
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> getDataFromMongoDB
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> obj
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> scala
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> +
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> ->
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> <init>
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> <repeated>
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> A
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> Any
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> AnyRef
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> ArrowAssoc
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> B
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> DataFrame
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> JavaUniverse
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> Map
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> MongoSpark
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> Nothing
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> Object
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> Predef
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> Product
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> ReadConfig
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> SQLContext
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> Self
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> SparkAnalytics
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> SparkConf
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> SparkContext
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> SparkSessionFunctions
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> String
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> T
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> Tuple2
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> TypeTag
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> Unit
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> Universe
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> any2ArrowAssoc
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> apache
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> appName
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> apply
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> com
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> conf
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> config
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> connStringwithTable
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> connectionString
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> df
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> getOrCreate
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> loadFromMongoDB
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> master
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> materializeTypeTag
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> mongodb
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> org
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> package
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> printSchema
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> reflect
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> runtime
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> scala
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> setAppName
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> setMaster
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> spark
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> sparkContext
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> sql
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> sqlContext
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> tableName
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> toSparkSessionFunctions
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> universe
+product stamps:
+3 items
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.10/classes/Main$.class -> lastModified(1492973748000)
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.10/classes/Main.class -> lastModified(1492973748000)
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.10/classes/SparkAnalytics.class -> lastModified(1492973748000)
+source stamps:
+2 items
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> hash(e9a4892dfe212d931d315785b9bea1aa823333fc)
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> hash(f1318fbabe6fd12b5cd220f0ab3dc9866e3d91b0)
+binary stamps:
+6 items
+/Users/changhyunlee/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-2.1.0.jar -> lastModified(1481871775000)
+/Users/changhyunlee/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-2.1.0.jar -> lastModified(1481872093000)
+/Users/changhyunlee/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.10/jars/mongo-spark-connector_2.10-2.0.0.jar -> lastModified(1478009227000)
+/Users/changhyunlee/.sbt/0.13/java9-rt-ext-oracle_corporation_9_ea/rt.jar -> lastModified(1492968529000)
+/Users/changhyunlee/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+/Users/changhyunlee/.sbt/boot/scala-2.10.6/lib/scala-reflect.jar -> lastModified(1442568937000)
+class names:
+6 items
+/Users/changhyunlee/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-2.1.0.jar -> org.apache.spark.SparkContext
+/Users/changhyunlee/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-2.1.0.jar -> org.apache.spark.sql.package$
+/Users/changhyunlee/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.10/jars/mongo-spark-connector_2.10-2.0.0.jar -> com.mongodb.spark.config.ReadConfig
+/Users/changhyunlee/.sbt/0.13/java9-rt-ext-oracle_corporation_9_ea/rt.jar -> java.lang.Object
+/Users/changhyunlee/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.collection.immutable.Map
+/Users/changhyunlee/.sbt/boot/scala-2.10.6/lib/scala-reflect.jar -> scala.reflect.api.TypeTags
+internal apis:
+2 items
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwT7iqjgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwjy5LInQABm5vdGlmeXNxAH4ADE5NRxt0AAR3YWl0c3EAfgAMYEojJnQADSRhc0luc3RhbmNlT2ZzcQB+AAyiAuv3dAAGZXF1YWxzc3EAfgAMi3ctCHQADGFzSW5zdGFuY2VPZnNxAH4ADEgm0ih0AAxzeW5jaHJvbml6ZWRzcQB+AAwS+s2ndAANJGlzSW5zdGFuY2VPZnNxAH4ADCByHox0AARtYWluc3EAfgAMXibVQHQACW5vdGlmeUFsbHNxAH4ADKiHcll0AAxpc0luc3RhbmNlT2ZzcQB+AAxFUAyWdAACPT1zcQB+AAwraIUmdAAFY2xvbmVzcQB+AAyapFTpdAAETWFpbnNxAH4ADCnaold0AAh0b1N0cmluZ3NxAH4ADGwF7N10AAIhPXNxAH4ADOAjJWR0AAhnZXRDbGFzc3NxAH4ADNNLRrB0AAJuZXNxAH4ADP/Rprx0AAJlcXNxAH4ADHWHvIJ0AAIjI3NxAH4ADBVlLf10AAhmaW5hbGl6ZXNxAH4ADKGfcjJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AJ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbnCtvf3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGAvVXNlcnMvY2hhbmdoeXVubGVlL0Rlc2t0b3AvUHJvZ3JhbW1pbmcvU2NhbGEvRWF0SW5UaW1lLUJhY2tncm91bmRUYXNrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTppIkt/iEtkx0xV4W5vqGqgjMz/A==
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwKuPTzwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw7z4603QABm5vdGlmeXNxAH4ADJaLhAR0AAR3YWl0c3EAfgAMAT2pgXQADSRhc0luc3RhbmNlT2ZzcQB+AAwa3kladAAGZXF1YWxzc3EAfgAMwJn/UHQADGFzSW5zdGFuY2VPZnNxAH4ADA8sml10AAxzeW5jaHJvbml6ZWRzcQB+AAwNSm2cdAANJGlzSW5zdGFuY2VPZnNxAH4ADJ9NESV0AAlub3RpZnlBbGxzcQB+AAwUsvbzdAAEY29uZnNxAH4ADF5788h0ABJnZXREYXRhRnJvbU1vbmdvREJzcQB+AAwEWcNidAAMaXNJbnN0YW5jZU9mc3EAfgAMJfUjxHQABjxpbml0PnNxAH4ADOZJTSN0AAI9PXNxAH4ADAb4lY10AApzcWxDb250ZXh0c3EAfgAM+aQg+3QABWNsb25lc3EAfgAMQtjs7HQADHNwYXJrQ29udGV4dHNxAH4ADMNg6np0AAh0b1N0cmluZ3NxAH4ADGrZVnB0AA5TcGFya0FuYWx5dGljc3NxAH4ADOD6SaF0AAIhPXNxAH4ADOk+08B0AAhnZXRDbGFzc3NxAH4ADNGkI2h0AAJuZXNxAH4ADGezomp0AAJlcXNxAH4ADAxR3zl0AAIjI3NxAH4ADDAwTkJ0AAhmaW5hbGl6ZXNxAH4ADFSMDN90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AMXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBmc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4ARAAAAABzcQB+AGF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbnCtvf3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGAvVXNlcnMvY2hhbmdoeXVubGVlL0Rlc2t0b3AvUHJvZ3JhbW1pbmcvU2NhbGEvRWF0SW5UaW1lLUJhY2tncm91bmRUYXNrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTxMY+6vm/RK1zSIPCrPcmGbj2RsA==
+external apis:
+0 items
+source infos:
+2 items
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/Main.scala -> 
+AAAAAAAAAAA=
+/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/src/main/scala/SparkAnalytics.scala -> 
+AAAAAAAAAAIAAAEAAAAPADYJdmFsIHNxbENvbnRleHQgPSBTUUxDb250ZXh0LmdldE9yQ3JlYXRlKHNwYXJrQ29udGV4dCkBAAACDQEAAAAdAQAdCSAgICAgICAgICAgICAgICAgICAgICAgICAgICABAGovVXNlcnMvY2hhbmdoeXVubGVlL0Rlc2t0b3AvUHJvZ3JhbW1pbmcvU2NhbGEvRWF0SW5UaW1lLUJhY2tncm91bmRUYXNrL3NyYy9tYWluL3NjYWxhL1NwYXJrQW5hbHl0aWNzLnNjYWxhAQBqL1VzZXJzL2NoYW5naHl1bmxlZS9EZXNrdG9wL1Byb2dyYW1taW5nL1NjYWxhL0VhdEluVGltZS1CYWNrZ3JvdW5kVGFzay9zcmMvbWFpbi9zY2FsYS9TcGFya0FuYWx5dGljcy5zY2FsYQBXbWV0aG9kIGdldE9yQ3JlYXRlIGluIG9iamVjdCBTUUxDb250ZXh0IGlzIGRlcHJlY2F0ZWQ6IFVzZSBTcGFya1Nlc3Npb24uYnVpbGRlciBpbnN0ZWFkAQAAAQAAABMAVQkJdmFsIGRmICA9IHNxbENvbnRleHQubG9hZEZyb21Nb25nb0RCKFJlYWRDb25maWcoTWFwKCJ1cmkiIC0+IGNvbm5TdHJpbmd3aXRoVGFibGUpKSkBAAACnwEAAAAMAQAMCQkgICAgICAgICAgAQBqL1VzZXJzL2NoYW5naHl1bmxlZS9EZXNrdG9wL1Byb2dyYW1taW5nL1NjYWxhL0VhdEluVGltZS1CYWNrZ3JvdW5kVGFzay9zcmMvbWFpbi9zY2FsYS9TcGFya0FuYWx5dGljcy5zY2FsYQEAai9Vc2Vycy9jaGFuZ2h5dW5sZWUvRGVza3RvcC9Qcm9ncmFtbWluZy9TY2FsYS9FYXRJblRpbWUtQmFja2dyb3VuZFRhc2svc3JjL21haW4vc2NhbGEvU3BhcmtBbmFseXRpY3Muc2NhbGEAmW1ldGhvZCB0b1NwYXJrU2Vzc2lvbkZ1bmN0aW9ucyBpbiBwYWNrYWdlIHNxbCBpcyBkZXByZWNhdGVkOiBBcyBvZiBTcGFyayAyLjAgU1FMQ29udGV4dCB3YXMgcmVwbGFjZWQgYnkgU3BhcmtTZXNzaW9uLiBVc2UgdGhlIFNwYXJrU2Vzc2lvbiBtZXRob2QgaW5zdGVhZAE=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW5wrb391cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9jaGFuZ2h5dW5sZWUvRGVza3RvcC9Qcm9ncmFtbWluZy9TY2FsYS9FYXRJblRpbWUtQmFja2dyb3VuZFRhc2svdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
