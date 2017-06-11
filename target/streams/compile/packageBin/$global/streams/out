@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.11/eatintime-backgroundtask_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	SparkAnalytics$$anonfun$normalizeData$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.11/classes/SparkAnalytics$$anonfun$normalizeData$1.class[0m
+[0m[[0mdebug[0m] [0m	Main$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.11/classes/Main$.class[0m
+[0m[[0mdebug[0m] [0m	Main.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.11/classes/Main.class[0m
+[0m[[0mdebug[0m] [0m	SparkAnalytics$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.11/classes/SparkAnalytics$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	SparkAnalytics.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.11/classes/SparkAnalytics.class[0m
+[0m[[0mdebug[0m] [0m	SparkAnalytics$$anonfun$conductAnalytics$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.11/classes/SparkAnalytics$$anonfun$conductAnalytics$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

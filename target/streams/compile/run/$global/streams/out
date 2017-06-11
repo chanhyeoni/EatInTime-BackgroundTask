@@ -158,40 +158,5 @@
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.mongodb/casbah-query_2.11/jars/casbah-query_2.11-3.1.1.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.mongodb/casbah-gridfs_2.11/jars/casbah-gridfs_2.11-3.1.1.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-2.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.scalaj/scalaj-http_2.11/jars/scalaj-http_2.11-2.3.0.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Thread-14[0m
-[0m[[0mdebug[0m] [0m	Interrupted Thread-14[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-3-3[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-3-3[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Thread-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted Thread-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-5-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-5-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-3-2[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-3-2[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-3-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-3-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread cluster-ClusterId{value='590ea8fe40b5ed436baa1b7d', description='null'}-ds145188.mlab.com:45188[0m
-[0m[[0mdebug[0m] [0m	Interrupted cluster-ClusterId{value='590ea8fe40b5ed436baa1b7d', description='null'}-ds145188.mlab.com:45188[0m
-[0m[[0mdebug[0m] [0mInterrupting thread pool-2-thread-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted pool-2-thread-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-4-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-4-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-1-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-1-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread pool-20-thread-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted pool-20-thread-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-1-4[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-1-4[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-1-3[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-1-3[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-1-2[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-1-2[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Thread-2[0m
-[0m[[0mdebug[0m] [0m	Interrupted Thread-2[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-3-4[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-3-4[0m
-[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
-[0m[[0mdebug[0m] [0mExited with code 0[0m
