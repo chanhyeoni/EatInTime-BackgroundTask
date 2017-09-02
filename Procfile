@@ -1,0 +1,1 @@
+web: target/universal/stage/bin/eatintime-backgroundtask_2.11-1.0.jar

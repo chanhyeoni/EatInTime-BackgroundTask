@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mRunning Main [0m
+[0m[[0minfo[0m] [0mRunning com.eatintime.backgroundtask.Main [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/Desktop/Programming/Scala/EatInTime-BackgroundTask/target/scala-2.11/classes[0m
@@ -76,7 +76,6 @@
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.apache.curator/curator-framework/bundles/curator-framework-2.4.0.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.apache.curator/curator-client/bundles/curator-client-2.4.0.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.apache.zookeeper/zookeeper/jars/zookeeper-3.4.5.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/com.google.guava/guava/bundles/guava-14.0.1.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/javax.servlet/javax.servlet-api/jars/javax.servlet-api-3.1.0.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.apache.commons/commons-math3/jars/commons-math3-3.4.1.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.slf4j/jul-to-slf4j/jars/jul-to-slf4j-1.7.16.jar[0m
@@ -152,11 +151,20 @@
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.jpmml/pmml-schema/jars/pmml-schema-1.2.15.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.mongodb/casbah-commons_2.11/jars/casbah-commons_2.11-3.1.1.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/com.github.nscala-time/nscala-time_2.11/jars/nscala-time_2.11-1.0.0.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.3.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.mongodb/casbah-core_2.11/jars/casbah-core_2.11-3.1.1.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.mongodb/casbah-query_2.11/jars/casbah-query_2.11-3.1.1.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.mongodb/casbah-gridfs_2.11/jars/casbah-gridfs_2.11-3.1.1.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-2.0.0.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.scalaj/scalaj-http_2.11/jars/scalaj-http_2.11-2.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/com.twilio.sdk/twilio/jars/twilio-7.1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/com.google.guava/guava/bundles/guava-18.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.5.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/io.jsonwebtoken/jjwt/jars/jjwt-0.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.5.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.4.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/javax.xml.bind/jaxb-api/jars/jaxb-api-2.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/javax.xml.stream/stax-api/jars/stax-api-1.0-2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/changhyunlee/.ivy2/cache/javax.activation/activation/jars/activation-1.1.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m

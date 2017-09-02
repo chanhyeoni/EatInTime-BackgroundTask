@@ -4,7 +4,7 @@
 		module="eatintime-backgroundtask_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20170604194349"
+		publication="20170829233446"
 	>
 		<description>
 		EatInTime-BackgroundTask
@@ -42,5 +42,6 @@
 		<dependency org="org.mongodb" name="casbah_2.11" rev="3.1.1" conf="compile->default(compile)"/>
 		<dependency org="org.mongodb.spark" name="mongo-spark-connector_2.11" rev="2.0.0" conf="compile->default(compile)"/>
 		<dependency org="org.scalaj" name="scalaj-http_2.11" rev="2.3.0" conf="compile->default(compile)"/>
+		<dependency org="com.twilio.sdk" name="twilio" rev="7.1.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

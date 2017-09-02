@@ -10,3 +10,6 @@ compile
 run
 import org.scalaj
 import org.scalaj._
+help stage
+stage
+assembly

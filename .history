@@ -4,3 +4,4 @@ val abs = 0
 compile
 console
 compile
+assembly
